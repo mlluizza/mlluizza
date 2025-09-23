@@ -1,30 +1,10 @@
-<!--My Customizing
-
-type, color, text, height, fontSize, fontColor 수정 가능-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,ffffff&height=200&fontSize=90&fontColor=000000" alt="header" />
-</div>
-
-
-
-
-
-<!--My Customizing
-
+<!--Customizing
 <samp> </samp> 사이에 내용 수정 가능-->
 <p align="center">
   <samp>
     Hi, this is Maria Luiza, a Data Analyst interested in NLP and dreaming of becoming an NLP researcher. 🙋‍♀️ I'm studying LLM now and preparing for making software based on Artificial Intelligence. 🤖 Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇 Making your imagination a reality, Stay tuned! ⭐
   </samp>
 </p>
-
-
-
-
-
-
-
-
 
 <!--My Customizing align, height, color 등 수정 가능-->
 <div align="center">
@@ -36,4 +16,3 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=000000)
