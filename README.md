@@ -1,11 +1,8 @@
 <!--Customizing
 <samp> </samp> 사이에 내용 수정 가능-->
-<p align="center">
-  <samp>
-    Hi, this is Maria Luiza, a Data Analyst interested in NLP and dreaming of becoming an NLP researcher. 🙋‍♀️ I'm studying LLM now and preparing for making software based on Artificial Intelligence. 🤖 Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇 Making your imagination a reality, Stay tuned! ⭐
-  </samp>
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I'm+Maria+Luiza!+👋" />
+</div>
 <!--My Customizing align, height, color 등 수정 가능-->
 <div align="center">
   <a href="https://github.com/mlluizza">
