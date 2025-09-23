@@ -1,8 +1,21 @@
 <!--Customizing
 <samp> </samp> 사이에 내용 수정 가능-->
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I'm+Maria+Luiza!+👋" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=31&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C++I'm+Maria+Luiza.)](https://git.io/typing-svg)
+
+
 </div>
+<br>
+<br>
+<br>
+<br>
+
 <!--My Customizing align, height, color 등 수정 가능-->
 <div align="center">
   <a href="https://github.com/mlluizza">
