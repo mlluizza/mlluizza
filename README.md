@@ -19,10 +19,13 @@
 <!--My Customizing align, height, color 등 수정 가능-->
 <div align="center">
   <a href="https://github.com/mlluizza">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mlluizza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Malu's GitHub Status" />
-</a>
-  <a href="https://github.com/mlluizza"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlluizza&layout=compact&hide_border=true&bg_color=000000&title_color=fff&text_color=fff" alt="Malu's Top Languages" /></a>
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mlluizza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=8A0000&text_color=8A0000&icon_color=8A0000" alt="Malu's GitHub Status" />
+  </a>
+  <a href="https://github.com/mlluizza">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlluizza&layout=compact&hide_border=true&bg_color=000000&title_color=8A0000&text_color=8A0000" alt="Malu's Top Languages" />
+  </a>
 </div>
+
 
 ##
 
