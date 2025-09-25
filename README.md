@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=31&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C++I'm+Maria+Luiza.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=31&pause=1000&color=8A0000&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C++I'm+Maria+Luiza.)](https://git.io/typing-svg)
 
 
 </div>
