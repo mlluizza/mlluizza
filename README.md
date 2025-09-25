@@ -17,13 +17,19 @@
 <br>
 
 <!--My Customizing align, height, color 등 수정 가능-->
+<a href="https://github.com/mlluizza">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mlluizza&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=8A0000&text_color=8A0000&icon_color=8A0000" alt="Malu's GitHub Status" />
+</a>
+<a href="https://github.com/JeongMinIsBest">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=ffffff&title_color=8A0000&text_color=8A0000" />
+</a>
 
 
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mlluizza&bg_color=ffffff&color=8A0000&line=8A0000&point=8A0000&area=true&hide_border=true)](https://github.com/mlluizza/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mlluizza&bg_color=000000&color=8A0000&line=8A0000&point=8A0000&area=true&hide_border=true)](https://github.com/mlluizza/github-readme-activity-graph)
 
 
 ##
