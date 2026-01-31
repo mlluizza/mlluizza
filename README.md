@@ -23,7 +23,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mlluizza&bg_color=ffffff&color=8A0000&line=8A0000&point=8A0000&area=true&hide_border=true)](https://github.com/mlluizza/github-readme-activity-graph)
+
 
 
 
