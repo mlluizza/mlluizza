@@ -24,11 +24,6 @@
 ##
 
 
-# 사용하는 언어 비율을 나태내는 위젯
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlluizza)](https://github.com/anuraghazra/github-readme-stats)
-
-# GitHub 평판을 나타내는 위젯
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlluizza)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
